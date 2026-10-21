@@ -27,7 +27,7 @@ Si tu proyecto ya usa otra convención (excepciones de dominio, `Result`, `never
 Con la CLI de [skills.sh](https://www.skills.sh):
 
 ```bash
-npx skills add https://github.com/oscarab6/skills/ --skill ddd-typescript
+npx skills add oscarab6/skills --skill ddd-typescript
 ```
 
 Manualmente en Claude Code: copia la carpeta `ddd-typescript/` en `~/.claude/skills/` (para todos tus proyectos) o en `.claude/skills/` dentro de un proyecto.
