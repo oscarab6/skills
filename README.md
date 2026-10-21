@@ -1,5 +1,7 @@
 # ddd-typescript
 
+[![skills.sh](https://skills.sh/b/oscarab6/skills)](https://skills.sh/oscarab6/skills)
+
 Skill para agentes de IA (Claude Code, Claude, Cursor, Codex…) que diseña, implementa y revisa código **TypeScript con Domain-Driven Design**:
 
 - **Bloques tácticos con clases base**:
